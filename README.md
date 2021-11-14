@@ -1,4 +1,10 @@
 ### Hi there 👋
+### Welcome to My GitHub Profile! :v:
+
+I'm Gurcan! 
+II am a senior at Izmir Institute of Technology, Computer Engineering. I am a candidate to be a developer who develops high quailty and efficient web applications. I have a huge passion for learning what I don't know from people, and also I am a person who loves to listen and learn and is compatible with teamwork.
+
+🔭 I’m currently working on ReactJS and Node.js.
 
 <!--
 **gurcangul/gurcangul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
