@@ -21,6 +21,24 @@ In my profile, you can
 
 <img align="left" style="padding-left:7px; padding-right:7px; padding-top:7px;"  alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
 
+## Recent Activity:
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#22](https://github.com/dsciztech/dsciztech.github.io/pull/22) in [dsciztech/dsciztech.github.io](https://github.com/dsciztech/dsciztech.github.io)
+<!--END_SECTION:activity-->
+
+<br>
+
+## Github Stats:
+![Gürcan's Github Stats](https://github-readme-stats-ochre-nine.vercel.app/api?username=gurcangul&show_icons=true&theme=prussian&count_private=true)
+<br>
+## Thanks For Helps:
+
+[website]: https://www.gurcangul.com
+[twitter]: https://www.twitter.com/gurcangul
+[instagram]: https://www.instagram.com/gurcangull
+[linkedin]: https://www.linkedin.com/in/gurcangul
+
 
 
 <br>
