@@ -3,9 +3,9 @@
 
 I'm Gurcan! 
 🎓 I am a senior at Izmir Institute of Technology, Computer Engineering. I am a candidate to be a developer who develops high quailty and efficient web applications. 
-In my profile, you can 
 
 🔭 I’m currently working and learning on ReactJS and Node.js.
+<br>
 📫 You can reach me via <a href="https://www.linkedin.com/in/gurcangul"> LinkedIn</a> or email.
 
 
