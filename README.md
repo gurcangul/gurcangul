@@ -6,6 +6,8 @@ I'm Gurcan!
 In my profile, you can 
 
 🔭 I’m currently working and learning on ReactJS and Node.js.
+📫 You can reach me via <a href="https://www.linkedin.com/in/gurcangul"> LinkedIn</a> or email.
+
 
 <br>
 
@@ -30,13 +32,6 @@ In my profile, you can
 ## Github Stats:
 ![Gürcan's Github Stats](https://github-readme-stats-ochre-nine.vercel.app/api?username=gurcangul&show_icons=true&theme=prussian&count_private=true)
 <br>
-##📫   How to reach me ...
-[website]: https://www.gurcangul.com
-[twitter]: https://www.twitter.com/gurcangul
-[instagram]: https://www.instagram.com/gurcangull
-[linkedin]: https://www.linkedin.com/in/gurcangul
-
-
 
 <br>
 
