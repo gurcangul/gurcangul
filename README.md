@@ -2,11 +2,11 @@
 ### Welcome to My GitHub Profile! 
 
 I'm Gurcan! 
-I am a senior at Izmir Institute of Technology, Computer Engineering. I am a candidate to be a developer who develops high quailty and efficient web applications. 
+🎓 I am a senior at Izmir Institute of Technology, Computer Engineering. I am a candidate to be a developer who develops high quailty and efficient web applications. 
 In my profile, you can 
-🎓  I'm currently studying Computer Engineering at Izmir Institute of Technology.
 
 🔭 I’m currently working and learning on ReactJS and Node.js.
+
 <br>
 
 ## Languages and Tools
@@ -30,8 +30,7 @@ In my profile, you can
 ## Github Stats:
 ![Gürcan's Github Stats](https://github-readme-stats-ochre-nine.vercel.app/api?username=gurcangul&show_icons=true&theme=prussian&count_private=true)
 <br>
-## Thanks For Helps:
-
+##📫   How to reach me ...
 [website]: https://www.gurcangul.com
 [twitter]: https://www.twitter.com/gurcangul
 [instagram]: https://www.instagram.com/gurcangull
