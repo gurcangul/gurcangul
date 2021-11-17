@@ -4,8 +4,9 @@
 I'm Gurcan! 
 I am a senior at Izmir Institute of Technology, Computer Engineering. I am a candidate to be a developer who develops high quailty and efficient web applications. 
 In my profile, you can 
+🎓  I'm currently studying Computer Engineering at Izmir Institute of Technology.
 
-🔭 I’m currently working on ReactJS and Node.js.
+🔭 I’m currently working and learning on ReactJS and Node.js.
 <br>
 
 ## Languages and Tools
@@ -20,6 +21,8 @@ In my profile, you can
 <img align="left" style="padding-left:7px; padding-right:7px; padding-top:7px;"  alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" style="padding-left:7px; padding-right:7px; padding-top:7px;"  alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+<br>
+<br>
 
 ## Recent Activity:
 
@@ -42,6 +45,9 @@ In my profile, you can
 
 
 <br>
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurcangul&count_private=true&show_icons=true&theme=github_dark&layout=compact&langs_count=10"/>  
 <!--
 **gurcangul/gurcangul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
