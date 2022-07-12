@@ -2,13 +2,15 @@
 ### Welcome to My GitHub Profile! 
 
 I'm Gurcan! <br>
-🎓 I am a senior at Izmir Institute of Technology, Computer Engineering. 
+🧑‍💻 I'm a Software Developer.
+<br>
+🎓 I graduated from Izmir Institute of Technology, Computer Engineering.
 <br>
 🌱 I am a candidate to be a developer who develops high quailty and efficient web applications. 
 <br>
 🔭 I’m currently working and learning on ReactJS and Node.js.
 <br>
-📫 You can reach me via <a href="https://www.linkedin.com/in/gurcangul"> LinkedIn</a> or email.
+📫 You can reach me via <a href="https://www.linkedin.com/in/gurcangul"> LinkedIn</a> or ggurcangul@gmail.com
 
 
 <br>
